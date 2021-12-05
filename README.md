@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Juhie</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhiechandra&label=Profile%20views&color=0e75b6&style=flat" alt="juhiechandra" /> </p>
+
+# Hi, I'm Juhie ! 👋
+
+👩‍💻 I'm currently working as UX designer
+
+🧠 I'm currently learning DS Algo, UX and React
+
+👯‍♀️ I'm looking to collaborate on ui/ux and product design
+
+🤔 I'm looking for help with DS Algo
+
+💬 Ask me about product design
+
+📫 How to reach me juhiechandra@gmail.com
+
+😄 Pronouns she/her
+
+⚡️ Fun fact I love music, writing and chocolates.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
