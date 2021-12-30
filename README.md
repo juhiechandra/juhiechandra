@@ -1,7 +1,7 @@
 
 # Hi, I'm Juhie ! 👋
 
-👩‍💻 I'm currently working as UX designer
+👩‍💻 I'm currently working as UI/UX designer
 
 🧠 I'm currently learning DS Algo, UX and React
 
