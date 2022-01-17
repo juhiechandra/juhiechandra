@@ -4,7 +4,7 @@
 # Working in order to break the vicious cycle (Challenge DSA)
 
 
-👩‍💻 I'm currently working as UI/UX designer
+👩‍💻 I'm a UI/UX designer
 
 🧠 I'm currently learning DS Algo, UX and React
 
@@ -14,7 +14,7 @@
 
 💬 Ask me about product design
 
-📫 How to reach me juhiechandra@gmail.com
+📫 How to reach me juhiechandra@gmail.com / mailforworkjc@gmail.com
 
 😄 Pronouns she/her
 
