@@ -1,6 +1,9 @@
 
 # Hi, I'm Juhie ! 👋
 
+# Working in order to break the vicious cycle (Challenge DSA)
+
+
 👩‍💻 I'm currently working as UI/UX designer
 
 🧠 I'm currently learning DS Algo, UX and React
