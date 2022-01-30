@@ -1,8 +1,6 @@
 
 # Hi, I'm Juhie ! 👋
 
-# Working in order to break the vicious cycle (Challenge DSA)
-
 
 👩‍💻 I'm a UI/UX designer
 
