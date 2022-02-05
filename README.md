@@ -2,7 +2,7 @@
 # Hi, I'm Juhie ! 👋
 
 
-👩‍💻 [My Website](juhiechandra.me)
+👩‍💻 [My Website](https://www.juhiechandra.me/)
 
 🧠 I'm currently learning DS Algo, UX and React
 
