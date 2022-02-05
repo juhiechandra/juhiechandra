@@ -2,7 +2,7 @@
 # Hi, I'm Juhie ! 👋
 
 
-👩‍💻 I'm a UI/UX designer
+👩‍💻 juhiechandra.me
 
 🧠 I'm currently learning DS Algo, UX and React
 
@@ -13,7 +13,6 @@
 💬 Ask me about product design
 
 📫 How to reach me juhiechandra@gmail.com / mailforworkjc@gmail.com
-
 😄 Pronouns she/her
 
 ⚡️ Fun fact I love music, writing and chocolates.
