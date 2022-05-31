@@ -2,8 +2,6 @@
 # Hi, I'm Juhie ! 👋
 
 
-👩‍💻 [My Website](https://www.juhiechandra.me/)
-
 🧠 I'm currently learning DS Algo, UX and React
 
 👯‍♀️ I'm looking to collaborate on ui/ux and product design
