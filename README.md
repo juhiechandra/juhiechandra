@@ -1,6 +1,8 @@
 
 # Hi, I'm Juhie ! 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 🧠 I'm figuring out what I like to do by messing around
 
 👯‍♀️ I'm looking to collaborate on front-end projects and design systems ( figma & oss ftw )
