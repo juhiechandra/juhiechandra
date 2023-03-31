@@ -1,7 +1,7 @@
 
 # Hi, I'm Juhie ! 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet) -->
 
 🧠 I'm figuring out what I like to do by messing around
 
